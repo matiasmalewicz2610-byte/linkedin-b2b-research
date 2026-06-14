@@ -22,10 +22,3 @@ YouTube channel is smaller than his LinkedIn/newsletter presence but content is 
 | `mu72K4ezJk0` | Why executives should hit record: leveraging video on LinkedIn | 2025-07-29 | ~15 min | HIGH | ⏳ pending fetch |
 
 ---
-
-## How to fetch transcripts (if re-running)
-
-1. Add your Supadata API key to /research/scripts/fetch-transcripts.js
-2. The VIDEO_IDS for this expert are already populated in the script
-3. Run: node research/scripts/fetch-transcripts.js
-4. Transcripts save here as {video-id}-{slug}.txt
