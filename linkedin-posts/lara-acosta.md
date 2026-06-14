@@ -1,38 +1,11 @@
-# LinkedIn Posts — Lara Acosta
-**Profile:** https://linkedin.com/in/laraacosta
-**Activity feed:** https://linkedin.com/in/laraacosta/recent-activity/shares
+# LinkedIn Posts — Katelyn Bourgoin
+**Profile:** https://www.linkedin.com/in/katebour/
+**Activity feed:** https://www.linkedin.com/in/katebour/recent-activity/all/
 **Collection date:** 2026-06-13
-**Posts collected:** 0 / 10
-**Status:** PENDING — requires manual collection
+**Posts collected:**
 
----
-
-## How to collect
-
-1. Open https://linkedin.com/in/laraacosta/recent-activity/shares in your browser (must be logged in to LinkedIn)
-2. Scroll through the feed — posts appear in reverse chronological order
-3. For each post, copy: date · text · reactions count · comments count · format type
-4. Paste using the template below
-5. Update "Posts collected" count above when done
-
----
-
-## Post template
-
-### POST-001
-**Date:** YYYY-MM-DD
-**URL:** [copy from browser address bar when viewing the post]
-**Reactions:** 000
-**Comments:** 00
-**Format:** text | carousel | video | poll | document
-**Hook (first line):** [exact first line of the post]
-**Key framework mentioned:** [name if applicable, or "none"]
-
-**Full text:**
-[paste complete post text here]
-
----
-
-## Collected Posts
-
-[Posts will be added here during manual collection]
+https://www.linkedin.com/posts/katebour_how-did-my-beloved-em-dash-become-so-damned-activity-7471163427546304512-ICY5?utm_source=share&utm_medium=member_desktop&rcm=ACoAADvecJ4BcEsU0fQ1_dPEnFMJhYRUQUUaPa8
+https://www.linkedin.com/posts/katebour_think-in-public-it-pays-off-activity-7470843557453570048-I3YN?utm_source=share&utm_medium=member_desktop&rcm=ACoAADvecJ4BcEsU0fQ1_dPEnFMJhYRUQUUaPa8
+https://www.linkedin.com/posts/katebour_the-personal-brand-gurus-dont-want-you-to-activity-7470454805942149122-MykU?utm_source=share&utm_medium=member_desktop&rcm=ACoAADvecJ4BcEsU0fQ1_dPEnFMJhYRUQUUaPa8
+https://www.linkedin.com/posts/katebour_the-personal-brand-gurus-dont-want-you-to-activity-7470454805942149122-MykU?utm_source=share&utm_medium=member_desktop&rcm=ACoAADvecJ4BcEsU0fQ1_dPEnFMJhYRUQUUaPa8
+https://www.linkedin.com/posts/katebour_your-buyers-brain-is-lazy-thats-why-activity-7470081865073332225-iGVC?utm_source=share&utm_medium=member_desktop&rcm=ACoAADvecJ4BcEsU0fQ1_dPEnFMJhYRUQUUaPa8
