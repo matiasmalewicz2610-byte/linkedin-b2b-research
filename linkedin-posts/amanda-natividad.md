@@ -2,37 +2,10 @@
 **Profile:** https://linkedin.com/in/amandanat
 **Activity feed:** https://linkedin.com/in/amandanat/recent-activity/shares
 **Collection date:** 2026-06-13
-**Posts collected:** 0 / 10
-**Status:** PENDING — requires manual collection
-
+**Posts collected:**
 ---
-
-## How to collect
-
-1. Open https://linkedin.com/in/amandanat/recent-activity/shares in your browser (must be logged in to LinkedIn)
-2. Scroll through the feed — posts appear in reverse chronological order
-3. For each post, copy: date · text · reactions count · comments count · format type
-4. Paste using the template below
-5. Update "Posts collected" count above when done
-
----
-
-## Post template
-
-### POST-001
-**Date:** YYYY-MM-DD
-**URL:** [copy from browser address bar when viewing the post]
-**Reactions:** 000
-**Comments:** 00
-**Format:** text | carousel | video | poll | document
-**Hook (first line):** [exact first line of the post]
-**Key framework mentioned:** [name if applicable, or "none"]
-
-**Full text:**
-[paste complete post text here]
-
----
-
-## Collected Posts
-
-[Posts will be added here during manual collection]
+https://www.linkedin.com/posts/amandanat_aeo-grader-2026-activity-7470862209640845312-aHtd?utm_source=share&utm_medium=member_desktop&rcm=ACoAADvecJ4BcEsU0fQ1_dPEnFMJhYRUQUUaPa8
+https://www.linkedin.com/posts/amandanat_when-google-stops-sending-clicks-what-still-activity-7470490713688850432-RXwC?utm_source=share&utm_medium=member_desktop&rcm=ACoAADvecJ4BcEsU0fQ1_dPEnFMJhYRUQUUaPa8
+https://www.linkedin.com/posts/amandanat_everyone-got-told-to-10x-their-content-with-activity-7470127608979120129-lj86?utm_source=share&utm_medium=member_desktop&rcm=ACoAADvecJ4BcEsU0fQ1_dPEnFMJhYRUQUUaPa8
+https://www.linkedin.com/posts/amandanat_i-dont-believe-in-launch-days-sure-a-activity-7468684562353729537-JSLc?utm_source=share&utm_medium=member_desktop&rcm=ACoAADvecJ4BcEsU0fQ1_dPEnFMJhYRUQUUaPa8
+https://www.linkedin.com/posts/amandanat_software-developers-use-google-less-than-activity-7468319420340191232-iQDa?utm_source=share&utm_medium=member_desktop&rcm=ACoAADvecJ4BcEsU0fQ1_dPEnFMJhYRUQUUaPa8
