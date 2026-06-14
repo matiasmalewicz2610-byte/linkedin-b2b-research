@@ -2,37 +2,10 @@
 **Profile:** https://linkedin.com/in/chris-walker-
 **Activity feed:** https://linkedin.com/in/chris-walker-/recent-activity/shares
 **Collection date:** 2026-06-13
-**Posts collected:** 0 / 10
-**Status:** PENDING — requires manual collection
+**Posts collected:**
 
----
-
-## How to collect
-
-1. Open https://linkedin.com/in/chris-walker-/recent-activity/shares in your browser (must be logged in to LinkedIn)
-2. Scroll through the feed — posts appear in reverse chronological order
-3. For each post, copy: date · text · reactions count · comments count · format type
-4. Paste using the template below
-5. Update "Posts collected" count above when done
-
----
-
-## Post template
-
-### POST-001
-**Date:** YYYY-MM-DD
-**URL:** [copy from browser address bar when viewing the post]
-**Reactions:** 000
-**Comments:** 00
-**Format:** text | carousel | video | poll | document
-**Hook (first line):** [exact first line of the post]
-**Key framework mentioned:** [name if applicable, or "none"]
-
-**Full text:**
-[paste complete post text here]
-
----
-
-## Collected Posts
-
-[Posts will be added here during manual collection]
+https://www.linkedin.com/posts/officialg_one-of-the-hardest-things-about-traffic-activity-7471554307541155840-0V95?utm_source=share&utm_medium=member_desktop&rcm=ACoAADvecJ4BcEsU0fQ1_dPEnFMJhYRUQUUaPa8
+https://www.linkedin.com/posts/officialg_i-had-a-great-meeting-with-karthik-chidambaram-activity-7465741178379104256-IgJd?utm_source=share&utm_medium=member_desktop&rcm=ACoAADvecJ4BcEsU0fQ1_dPEnFMJhYRUQUUaPa8
+https://www.linkedin.com/posts/officialg_organic-traffic-is-still-worth-tracking-activity-7465012640856133633--aid?utm_source=share&utm_medium=member_desktop&rcm=ACoAADvecJ4BcEsU0fQ1_dPEnFMJhYRUQUUaPa8
+https://www.linkedin.com/posts/officialg_i-had-a-great-catch-up-with-my-homie-nigel-activity-7463672550670376961-BdTk?utm_source=share&utm_medium=member_desktop&rcm=ACoAADvecJ4BcEsU0fQ1_dPEnFMJhYRUQUUaPa8
+https://www.linkedin.com/posts/officialg_if-youre-a-challenger-brand-going-up-against-activity-7463258679061037056-sQ_f?utm_source=share&utm_medium=member_desktop&rcm=ACoAADvecJ4BcEsU0fQ1_dPEnFMJhYRUQUUaPa8
