@@ -1,38 +1,11 @@
-# LinkedIn Posts — Matt Barker
-**Profile:** https://linkedin.com/in/barker-matthew
-**Activity feed:** https://linkedin.com/in/barker-matthew/recent-activity/shares
+# LinkedIn Posts — Peep Laja
+**Profile:** https://www.linkedin.com/in/peeplaja/
+**Activity feed:** https://www.linkedin.com/in/peeplaja/recent-activity/all/
 **Collection date:** 2026-06-13
-**Posts collected:** 0 / 15
-**Status:** PENDING — requires manual collection
+**Posts collected:**
 
----
-
-## How to collect
-
-1. Open https://linkedin.com/in/barker-matthew/recent-activity/shares in your browser (must be logged in to LinkedIn)
-2. Scroll through the feed — posts appear in reverse chronological order
-3. For each post, copy: date · text · reactions count · comments count · format type
-4. Paste using the template below
-5. Update "Posts collected" count above when done
-
----
-
-## Post template
-
-### POST-001
-**Date:** YYYY-MM-DD
-**URL:** [copy from browser address bar when viewing the post]
-**Reactions:** 000
-**Comments:** 00
-**Format:** text | carousel | video | poll | document
-**Hook (first line):** [exact first line of the post]
-**Key framework mentioned:** [name if applicable, or "none"]
-
-**Full text:**
-[paste complete post text here]
-
----
-
-## Collected Posts
-
-[Posts will be added here during manual collection]
+https://www.linkedin.com/posts/peeplaja_when-b2b-vendors-look-the-same-buyers-go-activity-7471154358043455488-zqUe?utm_source=share&utm_medium=member_desktop&rcm=ACoAADvecJ4BcEsU0fQ1_dPEnFMJhYRUQUUaPa8
+https://www.linkedin.com/posts/peeplaja_64-of-buyers-said-it-is-hard-to-tell-competing-activity-7470791975546445824-yWxe?utm_source=share&utm_medium=member_desktop&rcm=ACoAADvecJ4BcEsU0fQ1_dPEnFMJhYRUQUUaPa8
+https://www.linkedin.com/posts/peeplaja_we-took-the-value-prop-copy-from-the-5-biggest-activity-7470429599227838464-gfsV?utm_source=share&utm_medium=member_desktop&rcm=ACoAADvecJ4BcEsU0fQ1_dPEnFMJhYRUQUUaPa8
+https://www.linkedin.com/posts/peeplaja_most-agency-founders-or-consultants-are-thinking-activity-7469704785223426049-ReYL?utm_source=share&utm_medium=member_desktop&rcm=ACoAADvecJ4BcEsU0fQ1_dPEnFMJhYRUQUUaPa8
+https://www.linkedin.com/posts/peeplaja_what-any-job-is-is-evolving-a-job-is-essentially-activity-7468618879205027840-Ebm1?utm_source=share&utm_medium=member_desktop&rcm=ACoAADvecJ4BcEsU0fQ1_dPEnFMJhYRUQUUaPa8
