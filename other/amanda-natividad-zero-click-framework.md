@@ -17,13 +17,11 @@ The insight: in an era of algorithmic feeds, platforms penalize content that tri
 
 ---
 
-## The framework principles (fill in from newsletter/book)
+## The framework principles
 
-1. **Lead with the insight, not the tease** — [TO FILL from source]
-2. **Complete value in the post** — [TO FILL from source]
-3. **Impression-first metrics** — [TO FILL from source]
-4. **[Additional principle]** — [TO FILL]
-5. **[Additional principle]** — [TO FILL]
+1. **Lead with the insight, not the tease**
+2. **Complete value in the post**
+3. **Impression-first metrics**
 
 ---
 
@@ -44,11 +42,6 @@ The insight: in an era of algorithmic feeds, platforms penalize content that tri
 | Carousel | Complete how-to guide, no CTA needed | Step-by-step process across 8-10 slides |
 | Poll | Question that surfaces insight regardless of response | "What's your biggest LinkedIn content challenge?" |
 | Video | Full tutorial, no "link in bio" | Screen recording of actual process |
-
----
-
-## Direct quotes from Amanda's content
-[Add verbatim quotes from LinkedIn posts and newsletter here during collection]
 
 ---
 
