@@ -2,37 +2,10 @@
 **Profile:** https://linkedin.com/in/richardvanderblom
 **Activity feed:** https://linkedin.com/in/richardvanderblom/recent-activity/shares
 **Collection date:** 2026-06-13
-**Posts collected:** 0 / 10
-**Status:** PENDING — requires manual collection
+**Posts collected:**
 
----
-
-## How to collect
-
-1. Open https://linkedin.com/in/richardvanderblom/recent-activity/shares in your browser (must be logged in to LinkedIn)
-2. Scroll through the feed — posts appear in reverse chronological order
-3. For each post, copy: date · text · reactions count · comments count · format type
-4. Paste using the template below
-5. Update "Posts collected" count above when done
-
----
-
-## Post template
-
-### POST-001
-**Date:** YYYY-MM-DD
-**URL:** [copy from browser address bar when viewing the post]
-**Reactions:** 000
-**Comments:** 00
-**Format:** text | carousel | video | poll | document
-**Hook (first line):** [exact first line of the post]
-**Key framework mentioned:** [name if applicable, or "none"]
-
-**Full text:**
-[paste complete post text here]
-
----
-
-## Collected Posts
-
-[Posts will be added here during manual collection]
+https://www.linkedin.com/posts/richardvanderblom_linkedin-spent-years-teaching-us-how-to-grow-activity-7471858699486281728-msuY?utm_source=share&utm_medium=member_desktop&rcm=ACoAADvecJ4BcEsU0fQ1_dPEnFMJhYRUQUUaPa8
+https://www.linkedin.com/posts/richardvanderblom_want-to-viral-on-linkedin-i-just-wasted-activity-7471608434577047552-bBFm?utm_source=share&utm_medium=member_desktop&rcm=ACoAADvecJ4BcEsU0fQ1_dPEnFMJhYRUQUUaPa8
+https://www.linkedin.com/posts/richardvanderblom_activecampaignpartner-activity-7471077656701300736-DZ76?utm_source=share&utm_medium=member_desktop&rcm=ACoAADvecJ4BcEsU0fQ1_dPEnFMJhYRUQUUaPa8
+https://www.linkedin.com/posts/richardvanderblom_ar26ch6carousel-activity-7470724104590036992-euTP?utm_source=share&utm_medium=member_desktop&rcm=ACoAADvecJ4BcEsU0fQ1_dPEnFMJhYRUQUUaPa8
+https://www.linkedin.com/posts/richardvanderblom_this-morning-i-went-to-my-local-bakery-here-activity-7470379563026661379-wwIy?utm_source=share&utm_medium=member_desktop&rcm=ACoAADvecJ4BcEsU0fQ1_dPEnFMJhYRUQUUaPa8
