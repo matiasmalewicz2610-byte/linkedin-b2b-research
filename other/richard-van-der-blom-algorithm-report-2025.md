@@ -7,7 +7,7 @@
 
 ---
 
-## Key findings to extract (fill in from the PDF)
+## Key findings to extract
 
 ### Reach and engagement trends (2025 vs 2024)
 - Organic reach change YoY: **-50%** (confirmed by multiple secondary sources — verify exact figure from report)
@@ -17,32 +17,27 @@
 ### Content format performance
 | Format | Avg Reach | Avg Engagement Rate | Agent note |
 |--------|-----------|---------------------|------------|
-| Carousel / PDF document | [TO FILL] | ~6.60% (secondary source) | Highest engagement driver — swipe mechanic signals dwell time |
-| Text post | [TO FILL] | [TO FILL] | |
-| Native video | [TO FILL] | [TO FILL] | |
-| Poll | [TO FILL] | [TO FILL] | |
-| External link post | [TO FILL] | [TO FILL] | Typically lowest reach |
-| Document | [TO FILL] | [TO FILL] | |
+| Carousel / PDF document | ~6.60% (secondary source) | Highest engagement driver — swipe mechanic signals dwell time |
+| Text post |
+| Native video |
+| Poll |
+| External link post  | Typically lowest reach |
+| Document |
 
-### Algorithm behavior (fill from report)
-- "Volume Tax" — penalty for high-frequency low-quality posts: [TO FILL]
-- Dwell time as ranking signal: [TO FILL]
-- Comment weight vs. like weight: [TO FILL]
-- Optimal posting frequency per week: [TO FILL]
-- Best posting time windows: [TO FILL]
-- Connection vs. follower reach differences: [TO FILL]
-- Company page vs. personal page reach comparison: [TO FILL]
+### Algorithm behavior
+- "Volume Tax" — penalty for high-frequency low-quality posts
+- Dwell time as ranking signal
+- Comment weight vs. like weight
+- Optimal posting frequency per week
+- Best posting time windows
+- Connection vs. follower reach differences
+- Company page vs. personal page reach comparison
 
 ### Distribution mechanics
-- How the algorithm decides who sees a post first (golden hour): [TO FILL]
-- Role of early engagement (first 60-90 minutes): [TO FILL]
-- Impact of editing a post after publishing: [TO FILL]
-- Effect of external links on reach: [TO FILL]
-
----
-
-## Direct quotes from report
-[Add verbatim quotes with page numbers here when PDF is obtained]
+- How the algorithm decides who sees a post first (golden hour)
+- Role of early engagement (first 60-90 minutes)
+- Impact of editing a post after publishing
+- Effect of external links on reach
 
 ---
 
