@@ -1,0 +1,31 @@
+# Transcript — How to Effectively Position Your B2B Brand
+Video ID: tX_UHo59_g0
+URL: https://youtube.com/watch?v=tX_UHo59_g0
+Channel: guest-appearance
+Published: 2025-05-05
+Collected: PENDING
+Expert: April Dunford
+
+---
+
+## STATUS: TRANSCRIPT NOT YET FETCHED
+
+To fetch this transcript, run:
+
+  node research/scripts/fetch-transcripts.js
+
+Make sure your Supadata API key is set in the script first.
+Free tier: 100 requests/month — no credit card required.
+Sign up at: https://supadata.ai
+
+---
+
+## Full Transcript
+
+[Will be populated automatically by fetch-transcripts.js]
+
+---
+
+## Timestamped Segments
+
+[Will be populated automatically by fetch-transcripts.js]

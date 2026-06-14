@@ -1,0 +1,31 @@
+# Transcript — Stop Chasing Vanity Metrics: Real B2B Marketing ROI
+Video ID: -hwjjO0KLPA
+URL: https://youtube.com/watch?v=-hwjjO0KLPA
+Channel: TheReederCo
+Published: 2025-06-24
+Collected: PENDING
+Expert: Devin Reed
+
+---
+
+## STATUS: TRANSCRIPT NOT YET FETCHED
+
+To fetch this transcript, run:
+
+  node research/scripts/fetch-transcripts.js
+
+Make sure your Supadata API key is set in the script first.
+Free tier: 100 requests/month — no credit card required.
+Sign up at: https://supadata.ai
+
+---
+
+## Full Transcript
+
+[Will be populated automatically by fetch-transcripts.js]
+
+---
+
+## Timestamped Segments
+
+[Will be populated automatically by fetch-transcripts.js]
