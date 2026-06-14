@@ -2,37 +2,10 @@
 **Profile:** https://linkedin.com/in/devinreed
 **Activity feed:** https://linkedin.com/in/devinreed/recent-activity/shares
 **Collection date:** 2026-06-13
-**Posts collected:** 0 / 15
-**Status:** PENDING — requires manual collection
+**Posts collected:**
 
----
-
-## How to collect
-
-1. Open https://linkedin.com/in/devinreed/recent-activity/shares in your browser (must be logged in to LinkedIn)
-2. Scroll through the feed — posts appear in reverse chronological order
-3. For each post, copy: date · text · reactions count · comments count · format type
-4. Paste using the template below
-5. Update "Posts collected" count above when done
-
----
-
-## Post template
-
-### POST-001
-**Date:** YYYY-MM-DD
-**URL:** [copy from browser address bar when viewing the post]
-**Reactions:** 000
-**Comments:** 00
-**Format:** text | carousel | video | poll | document
-**Hook (first line):** [exact first line of the post]
-**Key framework mentioned:** [name if applicable, or "none"]
-
-**Full text:**
-[paste complete post text here]
-
----
-
-## Collected Posts
-
-[Posts will be added here during manual collection]
+https://www.linkedin.com/posts/devinreed_the-vendor-shortlist-gets-built-before-activity-7471214763784712192-x6tZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADvecJ4BcEsU0fQ1_dPEnFMJhYRUQUUaPa8
+https://www.linkedin.com/posts/devinreed_whoa-linkedin-just-made-it-way-easier-for-activity-7470484905336950787-HDOM?utm_source=share&utm_medium=member_desktop&rcm=ACoAADvecJ4BcEsU0fQ1_dPEnFMJhYRUQUUaPa8
+https://www.linkedin.com/posts/devinreed_honestlyitsnotai-activity-7470130337860190209-Zenz?utm_source=share&utm_medium=member_desktop&rcm=ACoAADvecJ4BcEsU0fQ1_dPEnFMJhYRUQUUaPa8
+https://www.linkedin.com/posts/devinreed_just-finished-my-first-golf-trip-and-guess-activity-7469460600310378496-cVv6?utm_source=share&utm_medium=member_desktop&rcm=ACoAADvecJ4BcEsU0fQ1_dPEnFMJhYRUQUUaPa8
+https://www.linkedin.com/posts/devinreed_slack-made-these-kicks-for-employees-and-activity-7468685006933250048-Z8q9?utm_source=share&utm_medium=member_desktop&rcm=ACoAADvecJ4BcEsU0fQ1_dPEnFMJhYRUQUUaPa8
