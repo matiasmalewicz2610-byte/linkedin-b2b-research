@@ -1,5 +1,5 @@
 # Research Sources — LinkedIn Organic Content Strategy for B2B SaaS
-Last updated: 2026-06-13
+Last updated: 2026-06-14
 Total experts: 10 | Tiers: T1 (×4) · T2 (×4) · T3 (×2)
 Topic: LinkedIn Organic Content Strategy for B2B SaaS
 
@@ -104,19 +104,20 @@ Topic: LinkedIn Organic Content Strategy for B2B SaaS
 
 ---
 
-## Expert 6 — Matt Barker
-**Tier:** T2 — Writing practitioner (0 → 169K LinkedIn followers from scratch, writing-first methodology)
-**LinkedIn:** https://linkedin.com/in/barker-matthew
+## Expert 6 — Brendan Hufford
+**Tier:** T2 — SaaS content practitioner (content + SEO specialist, 4-Part SaaS Growth Framework, 50+ SaaS companies helped)
+**LinkedIn:** https://linkedin.com/in/brendanhufford
+**Activity feed:** https://linkedin.com/in/brendanhufford/recent-activity/shares
 **YouTube:** (minor presence — not selected for transcript collection)
-**Newsletter:** https://mattbarker.xyz/newsletter
-**Website:** https://mattbarker.xyz
-**Key frameworks:** Writing-first growth · Niche-to-broad content expansion · Template-based consistency system
-**Why selected:** One of the few creators who documented their LinkedIn growth journey in real time from absolute zero. His "write better, not more" approach is contrarian to most volume-based advice. Provides the copywriting and writing mechanics layer of the playbook. His templates are publicly available and widely used.
-**Agent note:** No meaningful YouTube presence. Highest signal content is his LinkedIn posts and newsletter archive. Recommend collecting 15 LinkedIn posts and 5 newsletter issues.
+**Newsletter:** https://brendanhufford.com
+**Website:** https://brendanhufford.com
+**Key frameworks:** 4-Part SaaS Growth Framework · Content-to-SQL system · AEO for B2B SaaS
+**Why selected:** One of the most active and framework-dense LinkedIn creators in the B2B SaaS content space. Posts concrete, actionable systems — not theory. Worked with 50+ SaaS companies on content and SEO strategy. His posts consistently show the full system (not just the tip), making them ideal raw material for a playbook. Replaced Matt Barker who had no recent active posts at time of collection.
+**Agent note:** Verified active LinkedIn presence with high-quality posts as of June 2026. No meaningful YouTube channel — LinkedIn posts and newsletter are primary sources.
 **Content collected:**
 - [ ] LinkedIn posts — target 15 most recent (manual collection needed)
-- [ ] Newsletter issues — target 5 most recent (archive at mattbarker.xyz/newsletter)
-**Last verified:** 2026-06-13
+- [ ] Newsletter issues — target 3 most recent
+**Last verified:** 2026-06-14
 
 ---
 
@@ -137,35 +138,37 @@ Topic: LinkedIn Organic Content Strategy for B2B SaaS
 
 ---
 
-## Expert 8 — Jasmin Alic (Jay)
-**Tier:** T2 — Copywriting specialist (self-described World's #1 LinkedIn Coach, 200K+ followers)
-**LinkedIn:** https://linkedin.com/in/jasmin-alic
-**YouTube:** (minor — guest podcast appearance only)
-**Newsletter:** https://linkupbyjasmin.com
-**Website:** https://linkupbyjasmin.com
-**Key frameworks:** Hook psychology · Comment-as-distribution · Authentic authority building · Link Up system
-**Why selected:** Highest-signal expert for LinkedIn copywriting mechanics specifically. Built 200K+ following from Bosnia with no network advantages, no paid promotion, no prior audience. His hook formulas and comment engagement strategies are the most replicated in the ecosystem. Community "Link Up" has paying members actively implementing his system.
-**Agent note:** Kickoff Sessions podcast episode #228 is the best long-form content source for Jasmin. His LinkedIn posts are the primary source — recommend collecting 15 posts with focus on those showing his hook formulas in action.
+## Expert 8 — Katelyn Bourgoin
+**Tier:** T2 — Buyer psychology specialist (founder Customer Camp, "The Customer Whisperer", 60K+ LinkedIn followers)
+**LinkedIn:** https://linkedin.com/in/katebour
+**Activity feed:** https://linkedin.com/in/katebour/recent-activity/shares
+**YouTube:** (minor presence — not selected for transcript collection)
+**Newsletter:** https://customercamp.co/newsletter
+**Website:** https://customercamp.co
+**Key frameworks:** Why We Buy · Jobs-to-be-Done applied to content · Buyer psychology triggers for B2B
+**Why selected:** The only expert in this list who focuses specifically on the psychology of why B2B buyers make decisions — which is the foundation of any content that converts. Her "Why We Buy" newsletter and LinkedIn posts translate buyer research into actionable content frameworks. Active poster with high-engagement content verified as of June 2026. Replaced Jasmin Alic who had no recent active posts at time of collection.
+**Agent note:** Katelyn's angle is unique in this roster — she covers the demand side (what makes buyers respond) while others cover the supply side (how to produce content). This makes her the missing link between content creation and pipeline generation.
 **Content collected:**
 - [ ] LinkedIn posts — target 15 most recent (manual collection needed)
-- [ ] Newsletter issues — target 3 most recent
-- [ ] Podcast appearance: Kickoff Sessions ep. 228 (YouTube search: "Jasmin Alic Kickoff Sessions 228")
-**Last verified:** 2026-06-13
+- [ ] Newsletter issues — target 3 most recent (customercamp.co/newsletter)
+**Last verified:** 2026-06-14
 
 ---
 
-## Expert 9 — Lara Acosta
-**Tier:** T3 — Case study (0 → #1 Personal Branding UK in 18 months, Forbes feature, international speaker)
-**LinkedIn:** https://linkedin.com/in/laraacosta
-**YouTube:** (minor presence — not selected)
-**Newsletter:** https://thatsliterallyit.beehiiv.com
-**Website:** thatsliterallyit.beehiiv.com
-**Key frameworks:** Positioning-first personal brand · Inbound-only model · Consistency + network compounding
-**Why selected:** The clearest real-time documentation of building a LinkedIn personal brand from zero to tangible business results (Forbes feature, speaking gigs, agency clients). Her growth story is replicable and unusually well-documented in her newsletter. Peer group includes Welsh, Barker, and Alic — cross-validation from T1/T2 experts confirms her legitimacy.
+## Expert 9 — Peep Laja
+**Tier:** T3 — Positioning and messaging specialist (founder CXL, Wynter, Speero · voted #1 CRO expert globally · 90K+ LinkedIn followers)
+**LinkedIn:** https://linkedin.com/in/peeplaja
+**Activity feed:** https://linkedin.com/in/peeplaja/recent-activity/shares
+**YouTube:** https://youtube.com/@peeplaja
+**Newsletter:** https://peeplaja.com
+**Website:** https://peeplaja.com
+**Key frameworks:** Messaging that wins · Competitive positioning · How to Win podcast framework
+**Why selected:** Peep Laja brings the conversion and messaging layer that complements April Dunford's positioning work. Where Dunford covers strategic positioning, Laja covers how that positioning translates into messages that win against competitors — directly applicable to LinkedIn content that converts. Founder of multiple successful SaaS companies (CXL, Wynter). Active LinkedIn poster with framework-level content verified as of June 2026. Replaced Lara Acosta who had no recent active posts at time of collection.
+**Agent note:** Peep's podcast "How to Win" covers competitive positioning in B2B SaaS in depth. His LinkedIn posts are sharp, opinionated, and backed by data from Wynter (message testing platform). High signal-to-noise ratio.
 **Content collected:**
 - [ ] LinkedIn posts — target 10 most recent (manual collection needed)
-- [ ] Newsletter issues — target 5 from beehiiv archive (thatsliterallyit.beehiiv.com)
-**Last verified:** 2026-06-13
+- [ ] Newsletter issues — target 3 most recent
+**Last verified:** 2026-06-14
 
 ---
 
@@ -199,10 +202,10 @@ Topic: LinkedIn Organic Content Strategy for B2B SaaS
 | Richard van der Blom | T1 | ✅ 3 videos | ⏳ 10 pending | — | HIGH |
 | Justin Welsh | T1 | — (skipped) | ⏳ 20 pending | ⏳ 5 pending | HIGH |
 | Chris Walker | T2 | ✅ 3 videos | ⏳ 10 pending | — | MEDIUM |
-| Matt Barker | T2 | — (skipped) | ⏳ 15 pending | ⏳ 5 pending | MEDIUM |
+| Brendan Hufford | T2 | — (skipped) | ⏳ 15 pending | ⏳ 3 pending | MEDIUM |
 | Amanda Natividad | T2 | — (skipped) | ⏳ 10 pending | ⏳ 5 pending | MEDIUM |
-| Jasmin Alic | T2 | — (skipped) | ⏳ 15 pending | ⏳ 3 pending | MEDIUM |
-| Lara Acosta | T3 | — (skipped) | ⏳ 10 pending | ⏳ 5 pending | LOW |
+| Katelyn Bourgoin | T2 | — (skipped) | ⏳ 15 pending | ⏳ 3 pending | MEDIUM |
+| Peep Laja | T3 | — (skipped) | ⏳ 10 pending | ⏳ 3 pending | LOW |
 | April Dunford | T3 | ✅ 3 videos | ⏳ 5 pending | — | LOW |
 
 YouTube transcripts: 15 videos identified and ready to fetch
