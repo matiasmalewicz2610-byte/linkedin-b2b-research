@@ -12,35 +12,30 @@ What would your customers do if you didn't exist?
 - Not just direct competitors — includes "do nothing," spreadsheets, internal teams
 - This defines your real competitive context
 - **LinkedIn content implication:** Your content should make these alternatives look inadequate for the specific problem you solve
-- [TO FILL: direct quote from source]
-
+  
 ### Component 2: Unique attributes
 What do you have that alternatives genuinely don't?
 - Features, capabilities, team expertise, methodology, data, network
 - Must be real differences, not marketing language
 - **LinkedIn content implication:** These become your content "angles" — the things only you can credibly say
-- [TO FILL: direct quote from source]
 
 ### Component 3: Value (the "so what")
 Why does it matter to customers that you have those unique attributes?
 - Translates features into outcomes
 - This is the language customers actually use
 - **LinkedIn content implication:** Every post should connect to a value that your ICP cares about, not to a feature you're proud of
-- [TO FILL: direct quote from source]
 
 ### Component 4: Target customer characteristics
 Who specifically cares intensely about that value?
 - Not "anyone who might buy" — specific customer characteristics that make them a good fit
 - **LinkedIn content implication:** Defines exactly who you're writing for. Generic content tries to appeal to everyone and reaches no one.
-- [TO FILL: direct quote from source]
 
 ### Component 5: Market category
 Where do you play to make the value obvious?
 - The category creates the comparison set in the buyer's mind
 - Wrong category = wrong comparison = no sale
 - **LinkedIn content implication:** The category you claim determines which content benchmarks you're compared against
-- [TO FILL: direct quote from source]
-
+  
 ---
 
 ## Application to LinkedIn content strategy
@@ -55,12 +50,6 @@ The positioning exercise answers three LinkedIn content questions:
 | Who is our target customer? | Defines who you're writing for — every post should speak to one person |
 | What market category? | Defines your content "voice" and peer group on LinkedIn |
 
----
-
-## Direct quotes from April's content
-[Add verbatim quotes from YouTube transcripts and LinkedIn posts during collection]
-
----
 
 ## Cross-references
 - Dave Gerhardt's "Founder Brand" framework assumes positioning is already done — April provides the input
